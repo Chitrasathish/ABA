@@ -1,3 +1,9 @@
+/*
+Title:Program to print number triangle
+Author:Chitra sathish
+Date of creation:04/09/2022
+*/
+
 #include<stdio.h>
 
 void main()
